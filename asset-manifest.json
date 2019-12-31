@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-event-calender/static/css/main.ff976e7f.chunk.css",
+    "main.js": "/react-event-calender/static/js/main.fe55227b.chunk.js",
+    "main.js.map": "/react-event-calender/static/js/main.fe55227b.chunk.js.map",
+    "runtime-main.js": "/react-event-calender/static/js/runtime-main.277843f1.js",
+    "runtime-main.js.map": "/react-event-calender/static/js/runtime-main.277843f1.js.map",
+    "static/js/2.332453ac.chunk.js": "/react-event-calender/static/js/2.332453ac.chunk.js",
+    "static/js/2.332453ac.chunk.js.map": "/react-event-calender/static/js/2.332453ac.chunk.js.map",
+    "index.html": "/react-event-calender/index.html",
+    "precache-manifest.4404eb4464c9cc8036533e334ae072ad.js": "/react-event-calender/precache-manifest.4404eb4464c9cc8036533e334ae072ad.js",
+    "service-worker.js": "/react-event-calender/service-worker.js",
+    "static/css/main.ff976e7f.chunk.css.map": "/react-event-calender/static/css/main.ff976e7f.chunk.css.map",
+    "static/js/2.332453ac.chunk.js.LICENSE": "/react-event-calender/static/js/2.332453ac.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.277843f1.js",
+    "static/js/2.332453ac.chunk.js",
+    "static/css/main.ff976e7f.chunk.css",
+    "static/js/main.fe55227b.chunk.js"
+  ]
+}
